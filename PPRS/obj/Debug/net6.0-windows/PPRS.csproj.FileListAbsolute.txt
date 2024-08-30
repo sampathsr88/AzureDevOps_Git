@@ -1,0 +1,17 @@
+E:\Working Directory\PipeLines\PPRS\bin\Debug\net6.0-windows\PPRS.exe
+E:\Working Directory\PipeLines\PPRS\bin\Debug\net6.0-windows\PPRS.deps.json
+E:\Working Directory\PipeLines\PPRS\bin\Debug\net6.0-windows\PPRS.runtimeconfig.json
+E:\Working Directory\PipeLines\PPRS\bin\Debug\net6.0-windows\PPRS.dll
+E:\Working Directory\PipeLines\PPRS\bin\Debug\net6.0-windows\PPRS.pdb
+E:\Working Directory\PipeLines\PPRS\obj\Debug\net6.0-windows\PPRS.csproj.AssemblyReference.cache
+E:\Working Directory\PipeLines\PPRS\obj\Debug\net6.0-windows\PPRS.Form1.resources
+E:\Working Directory\PipeLines\PPRS\obj\Debug\net6.0-windows\PPRS.csproj.GenerateResource.cache
+E:\Working Directory\PipeLines\PPRS\obj\Debug\net6.0-windows\PPRS.GeneratedMSBuildEditorConfig.editorconfig
+E:\Working Directory\PipeLines\PPRS\obj\Debug\net6.0-windows\PPRS.AssemblyInfoInputs.cache
+E:\Working Directory\PipeLines\PPRS\obj\Debug\net6.0-windows\PPRS.AssemblyInfo.cs
+E:\Working Directory\PipeLines\PPRS\obj\Debug\net6.0-windows\PPRS.csproj.CoreCompileInputs.cache
+E:\Working Directory\PipeLines\PPRS\obj\Debug\net6.0-windows\PPRS.dll
+E:\Working Directory\PipeLines\PPRS\obj\Debug\net6.0-windows\refint\PPRS.dll
+E:\Working Directory\PipeLines\PPRS\obj\Debug\net6.0-windows\PPRS.pdb
+E:\Working Directory\PipeLines\PPRS\obj\Debug\net6.0-windows\PPRS.genruntimeconfig.cache
+E:\Working Directory\PipeLines\PPRS\obj\Debug\net6.0-windows\ref\PPRS.dll
